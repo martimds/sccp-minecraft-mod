@@ -2,6 +2,7 @@ package net.marmo.timaomod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.marmo.timaomod.item.ModItemGroup;
 import net.marmo.timaomod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,6 +13,7 @@ public class TimaoMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroup.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }
