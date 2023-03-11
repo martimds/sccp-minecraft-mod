@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item CORINTHIANS_DUST = registerItem("cornithians_dust",
+    public static final Item CORINTHIANS_DUST = registerItem("corinthians_dust",
             new Item(new FabricItemSettings()));
     private static Item registerItem(String name, Item item) {
          return Registry.register(Registries.ITEM, new Identifier(TimaoMod.MOD_ID, name), item);
