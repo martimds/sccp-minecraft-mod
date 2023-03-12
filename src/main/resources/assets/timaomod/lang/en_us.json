@@ -1,4 +1,7 @@
 {
   "item.timaomod.corinthians_dust": "Corinthians Dust",
-  "item.timaomod.corinthians_ingot": "Corinthians Ingot"
+  "item.timaomod.corinthians_ingot": "Corinthians Ingot",
+  "block.timaomod.corinthians_block": "Corinthians Block",
+  "block.timaomod.corinthians_ore": "Corinthians Ore",
+  "block.timaomod.deepslate_corinthians_ore": "Deepslate Corinthians Ore"
 }
