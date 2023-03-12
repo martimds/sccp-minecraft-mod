@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "timaomod:corinthians_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "timaomod:corinthians_ingot"
+  }
+}
